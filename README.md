@@ -1,12 +1,12 @@
-# Jalpc. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/Jack614/jalpc_jekyll_theme)
+# Robotenique's Website, implemented in Jekyll!
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
-<http://www.jack003.com>
+<http://www.linux.ime.usp.br/~robotenique>
 
-![Blog](blog.gif)
+![Blog](search.gif)
 
 This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.
 
@@ -15,10 +15,6 @@ It's pretty minimal, but leverages large type and drastic contrast to make a sta
 The landing page of the blog is multilingual page.
 
 It is my pleasure to contact me, you can give me your website or some advice about my website. Let's build a wonderful Jekyll theme together!
-
-## Ad
-
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
 
 ## Getting Started
 
@@ -57,7 +53,7 @@ author:
   email: 'me@jack003.com'
   facebook_username: 'jiakunnj'
   github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  head_img: 'static/img/landing/robt.png'
 ...
 ```
 
