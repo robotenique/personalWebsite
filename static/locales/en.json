@@ -13,8 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Hi, I am Juliano Garcia, a Computer Science student from IME-USP at the University of São Paulo, and this is my personal page.
-    My main areas of interest are AI and machine learning, Python programming language,functional programming, applications of linear algebra and ∆ ＶＡＰＯＲＷＡＶΞ ∆  :)"
+    "des": "Hi, I am Juliano Garcia, a Computer Science student from IME-USP at the University of São Paulo, and this is my personal page. My main areas of interest are AI and machine learning, Python programming language,functional programming, applications of linear algebra and ∆ ＶＡＰＯＲＷＡＶΞ ∆  :)"
   },
   "skills":{
     "my_skills": "My Skills"
@@ -47,7 +46,27 @@
     "highSchool": "High School",
     "highSchool_des": "At January 2012,I started a Computer Technician course with emphasis on Software Development, along with high school in IFSP, the Federal Institute of Science and Technology - São Paulo",
     "highSchool_date": "Jan. 2012",
-    "highSchool_job": "Student"
+    "highSchool_job": "Student",
+    "df": "",
+    "df_des": "",
+    "df_date": "",
+    "df_job": "",
+    "df4": "HueApp",
+    "df4_des": "Finished with my friends an android app that calculates the shortest route in the São Paulo subway and integrates with the Google Maps API.",
+    "df4_date": "Nov. 2014",
+    "df4_job": "Java / Android",
+    "df3": "Scripttus",
+    "df3_des": "Implemented, with a team of 4 more people, a text sharing social network website in Wordpress, using PHP to create plugins.",
+    "df3_date": "Nov. 2015",
+    "df3_job": "PHP / Wordpress",
+    "df2": "Graduation",
+    "df2_des": "At December 2015, I graduated from my College.",
+    "df2_date": "Dec. 2015",
+    "df2_job": "Student",
+    "df1": "Computer Science (IME - USP)",
+    "df1_des": "In February 2016, I started the Computer Science course at the  Institute of Mathematics ans Statistics, in the University of São Paulo =) .",
+    "df1_date": "Feb. 2016",
+    "df1_job": "Student"
   },
   "blog":{
     "my_blog": "My Blog"

@@ -8,5 +8,5 @@
 
 ![Blog](search.gif)
 
-This a repository of my (new) persnal website, made with the Jekyll (https://jekyllrb.com/) static renderer, made in Ruby.
+This a repository of my (new) personal website, made with the Jekyll (https://jekyllrb.com/) static renderer, made in Ruby.
 This website is responsive and uses the great (but underrated) jalpc jekyll theme.

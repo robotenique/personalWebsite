@@ -1,58 +1,58 @@
 - name:
-    detail:
-    i18n: nextcode
+    detail: Computer Science (IME - USP)
+    i18n: df1
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: In February 2016, I started the Computer Science course at the  Institute of Mathematics ans Statistics, in the University of São Paulo =) .
+    i18n: df1_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Feb. 2016
+    i18n: df1_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
-
-- name:
-    detail: Netease Game
-    i18n: netease
-  desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
-  date:
-    detail: Jun. 2015
-    i18n: nextcode_date
-  job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
-
-- name:
-    detail: Ucloud
-    i18n: ucloud
-  desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
-  date:
-    detail: Sep. 2013
-    i18n: ucloud_date
-  job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
+    detail: Student
+    i18n: df1_job
+  icon: fa-laptop
 
 - name:
     detail: Graduation
-    i18n: college
+    i18n: df2
   desc:
-    detail: At December 2015,I graduated from my Colleg
-    i18n: college_des
+    detail: At December 2015, I graduated from my College.
+    i18n: df2_des
   date:
-    detail: Jul. 2013
-    i18n: college_date
+    detail: Dec. 2015
+    i18n: df2_date
   job:
     detail: Student
-    i18n: college_job
+    i18n: df2_job
   icon: fa-book
+
+- name:
+    detail: Scripttus
+    i18n: df3
+  desc:
+    detail: Implemented, with a team of 4 more people, a text sharing social network website in Wordpress, using PHP to create plugins.
+    i18n: df3_des
+  date:
+    detail: Nov. 2015
+    i18n: df3_date
+  job:
+    detail: PHP / Wordpress
+    i18n: df3_job
+  icon: fa-users
+
+- name:
+    detail: HueApp
+    i18n: df4
+  desc:
+    detail: Finished with my friends an android app that calculates the shortest route in the São Paulo subway and integrates with the Google Maps API.
+    i18n: df4_des
+  date:
+    detail: Nov. 2014
+    i18n: df4_date
+  job:
+    detail: Java / Android
+    i18n: df4_job
+  icon: fa-mobile
 
 - name:
     detail: High School
@@ -64,6 +64,6 @@
     detail: Jul. 2013
     i18n: highSchool_date
   job:
-    detail: Student
+    detail: IFSP
     i18n: highSchool_job
   icon: fa-book
