@@ -1,5 +1,5 @@
 - name:
-    detail: Nextcode
+    detail:
     i18n: nextcode
   desc:
     detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
@@ -44,7 +44,7 @@
     detail: Graduation
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: At December 2015,I graduated from my Colleg
     i18n: college_des
   date:
     detail: Jul. 2013
@@ -52,4 +52,18 @@
   job:
     detail: Student
     i18n: college_job
+  icon: fa-book
+
+- name:
+    detail: High School
+    i18n: highSchool
+  desc:
+    detail: At January 2012, I started a Computer Technician course with emphasis on Software Development and my high school,  both in IFSP, the Federal Institute of Science and Technology - São Paulo
+    i18n: highSchool_des
+  date:
+    detail: Jul. 2013
+    i18n: highSchool_date
+  job:
+    detail: Student
+    i18n: highSchool_job
   icon: fa-book
