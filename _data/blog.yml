@@ -4,14 +4,12 @@
 - name: Python
   href: '/python/'
 
+- name: Computer Science
+  href: '/cs/'
+
 - name: Linux
   href: '/linux/'
 
-- name: Wordpress
-  href: '/wordpress/'
-
-- name: Computer Science
-  href: '/cs/'
 
 - name: Misc
   href: '/misc/'
