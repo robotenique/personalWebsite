@@ -13,7 +13,8 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Hi, I am Juliano Garcia, a Computer Science student from IME-USP at the University of São Paulo, and this is my personal page. My main areas of interest are AI and machine learning, Python programming language,functional programming, applications of linear algebra and ∆ ＶＡＰＯＲＷＡＶΞ ∆  :)"
+    "des1": "Hi, I am Juliano Garcia, a Computer Science student from IME-USP at the University of São Paulo, and this is my personal page.",
+    "des2": "My main areas of interest are AI and machine learning, Python programming language, functional programming, applications of linear algebra and    ∆ ＶＡＰＯＲＷＡＶΞ ∆   :)"
   },
   "skills":{
     "my_skills": "My Skills"
@@ -69,7 +70,7 @@
     "df1_job": "Student"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "∇  Ｍｙ Ｂｌｏｇ  ∇"
   },
   "link":{
     "link": "Contact-me",

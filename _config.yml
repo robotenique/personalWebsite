@@ -17,8 +17,8 @@ author:
   facebook_username: 'julianoGarciaO'
   github_username: 'robotenique'
   head_img: 'static/img/landing/robt.png'
-  desc: 'Hi, I am Juliano Garcia, a Computer Science student, and this is my personal page.
-  My main areas of interest are AI and machine learning, Python programming language,functional programming, applications of linear algebra and ∆ ＶＡＰＯＲＷＡＶΞ ∆  :)'
+  desc1: 'Hi, I am Juliano Garcia, a Computer Science student, and this is my personal page. '
+  desc2: 'My main areas of interest are AI and machine learning, the Python programming language, functional programming, applications of linear algebra and ∆ ＶＡＰＯＲＷＡＶΞ ∆  :)'
 
 # sections
 sections:

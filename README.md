@@ -10,3 +10,12 @@
 
 This a repository of my (new) personal website, made with the Jekyll (https://jekyllrb.com/) static renderer, made in Ruby.
 This website is responsive and uses the great (but underrated) jalpc jekyll theme.
+
+# Technologies used
+
+- [Wow.js](http://mynameismatthieu.com/WOW/) , a javascript library to animate the elements as you scroll! (Check their website, it's really cool);
+### Ignore this:
+
+ hex#6338B4
+
+ \xa0
