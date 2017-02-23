@@ -53,7 +53,8 @@ sections:
     css: 'contact'
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+# TODO: Fix the image path in the deploy application
+img_path: '/static/img/blog'
 
 
 # comment
