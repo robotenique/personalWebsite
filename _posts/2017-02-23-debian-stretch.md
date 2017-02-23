@@ -32,9 +32,9 @@ The installation itself is pretty straightforward. In the desktop environment se
 ### **Updating GRUB**
 
 After the installation is complete, there are some things you need to take of. First of all, if you have (like myself) another HDD partition with Windows or another OS, I suggest updating [GRUB](http://www.golinuxhub.com/2014/03/what-is-grub-boot-loader.html), by opening the *terminal* and running the following command **as root** (use *su* to access the *root* user):
-
-**$** update-grub
-
+~~~bash
+$ update-grub
+~~~
 This will generate a GRUB configuration file with the OS installed in your machine. If this didn't worked, you could also try to run *update-grub2*.
 
 ![updgrub]({{ site.img_path }}/debianSetup/grubupd.png){: .center-image }
@@ -42,8 +42,9 @@ This will generate a GRUB configuration file with the OS installed in your machi
 ### **Use SUDO**
 
 Debian by default doesn't add your user to the *sudo* group, to make use of the *sudo* functionality (which I recommend), type this in your terminal (as root), replacing *juliano* with your actual username:
-
-**$** usermod -a -G sudo juliano
+~~~bash
+$ usermod -a -G sudo juliano
+~~~
 Now, whenever you need to do something as *root*, you can just run with the *sudo* keyword before the actual command. It's [safer](http://askubuntu.com/questions/135428/what-are-the-benefits-of-sudo-over-su/135429) than using *su*, and much more convenient.
 
 ### **Set keyboard shortcuts**
@@ -63,10 +64,11 @@ You can check my *sources.list* until this point of the configuration (we'll add
 ![sourcesL]({{ site.img_path }}/debianSetup/sourcesL.png){: .center-image }
 
 After you need to update the repository in *apt*, so run these commands:
+~~~bash
+$ sudo apt-get update
 
-**$** sudo apt-get update
-
-**$** sudo apt-get upgrade
+$ sudo apt-get upgrade
+~~~
 
 ### **Install applications**
 
@@ -93,6 +95,6 @@ If you want something similar to my theme, you need to install the [powerlevel9k
 In the terminal (Gnome terminal) you can change the fonts, configure the color schemes and configure some minor features. For the theme to work properly, you need to modify your "~/.zshrc" file and add the information of the powerlevel9k theme. You can check [my *.zshrc*](https://github.com/robotenique/RandomAccessMemory/blob/master/infofiles/.zshrc) for hints and a model of what you could include in yours.
 
 
-Oh-my-zsh is one of the best frameworks for the Linux shell, it can increase your productivity and make things simpler, by using a variety of plugins and built-in functionality. The tab completion is much more powerful than the default bash, and much easier and intuitive to use. I recommend to check the plugins in the Oh-my-zsh [page](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins). I use the *git* plugin and the *global/local history* plugin. Finally, another good built-in feature of Oh-my-zsh is their aliases. Run *alias* in the terminal, and see all the aliases predefined by the framework, especially those about *git* cause they make things much more easier to do.
+Oh-my-zsh is one of the best frameworks for the Linux shell, it can increase your productivity and make things simpler, by using a variety of plugins and built-in functionality. The tab completion is much more powerful than the default bash, and much easier and intuitive to use. I recommend to check the plugins in the Oh-my-zsh [page](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins). I use the *git* plugin and the *global/local history* plugin. Finally, another good built-in feature of Oh-my-zsh is their aliases. Run *alias* in the terminal, and see all the aliases predefined by the framework, especially those about *git* (*ga, gp, gl, gcmsg, gcl*) cause they make things easier and faster.
 
 ![gst]({{ site.img_path }}/debianSetup/gitstatus.png){: .center-image }
