@@ -78,7 +78,7 @@ Now that the repositories are configured, you can install some common applicatio
 
 Some applications I installed were [Telegram](https://telegram.org/), [Discord](https://discordapp.com/), [Chrome](https://www.google.com/chrome/browser/desktop/index.html), [Vlc](http://www.videolan.org/vlc/index.html), [Sublime Text](https://www.sublimetext.com/3) and [Git](https://git-scm.com/).
 
-I had a nasty problem installing *steam* in the Stretch version, but it finally worked out. I installed some missing libraries (initially the problem was "You are missing the following 32-bit libraries, and Steam may not run: libc.so.6"), and added a PRELOAD variable every time I run Steam, and it works like a charm.
+I had a nasty problem installing *steam* in the Stretch version, but it finally worked out. I installed some missing libraries (initially the problem was "You are missing the following 32-bit libraries, and Steam may not run: libc.so.6"), and added a PRELOAD variable every time I run Steam, and it works like a charm. Personally, I wouldn't reccomend you install Steam or any games in *Debian*, to keep you focused in the work. When I want to game, I just switch to Windows, and this keeps me from wasting time and separating both activities by the OS I'm using.
 
 ---
 
