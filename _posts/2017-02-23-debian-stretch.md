@@ -11,6 +11,8 @@ icon: fa-magic
 
 Hello! In this post, I'll show how is the setup that I use, the most common applications I mostly use when programming, some useful plugins, anyway, my complete programming environment. I'll first cover my OS setup, then the applications and finally the customizations. Feel free to contact me if there's any doubt, but I'll try to be clear and concise.
 
+**DISCLAIMER:** You do everything in your >OWN< risk! :D
+
 ## Summary
 ---
 
@@ -98,3 +100,20 @@ In the terminal (Gnome terminal) you can change the fonts, configure the color s
 Oh-my-zsh is one of the best frameworks for the Linux shell, it can increase your productivity and make things simpler, by using a variety of plugins and built-in functionality. The tab completion is much more powerful than the default bash, and much easier and intuitive to use. I recommend to check the plugins in the Oh-my-zsh [page](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins). I use the *git* plugin and the *global/local history* plugin. Finally, another good built-in feature of Oh-my-zsh is their aliases. Run *alias* in the terminal, and see all the aliases predefined by the framework, especially those about *git* (*ga, gp, gl, gcmsg, gcl*) cause they make things easier and faster.
 
 ![gst]({{ site.img_path }}/debianSetup/gitstatus.png){: .center-image }
+
+---
+
+## Gnome customization
+
+In Gnome, you can make a lot of customization. In *debian Jessie* I was using the Xenlism shell theme, but in Stretch I changed to a material design based one. I'm using the [Flat-Plat](https://github.com/nana-4/Flat-Plat) with [Xenlism wildfire icons](http://xenlism.github.io/wildfire/) which you can in action in the screenshot below:
+
+![flatplat]({{ site.img_path }}/debianSetup/flatplat.png){: .center-image }
+
+The installation for both of these are easy, so I won't cover it here. Remember to activate the "*User themes*" extension in the **gnome-tweak-tool**, so that you can select the theme you want. You can find more themes in the [Gnome look website](https://www.gnome-look.org/). The installation may change a bit, so make sure to check the description of each extension / theme you download. I also use the *breeze hacked* cursor, it didn't appeared on the screenshot but you can check it in the Gnome Look website very easily (to install custom cursors, extract the file to */usr/share/icons/*, then change it using *gnome-tweak-tool*).
+
+Finally, to use the bottom OSX-like dock instead of the side bar, I use the [dash-to-dock](https://extensions.gnome.org/extension/307/dash-to-dock/) extension, which is very easy and you don't have to setup a lot of different things. Just install it and activate it, and you'll have a cool ock which you can place your most used apps!
+
+
+---
+
+Well, that's it for the *Debian Stretch* installation! Of course, this is the way I did it, if you have any suggestion or critic, contact me! I'll soon do another post about about my development environment, how I set it up, the text editor, some tools I commonly use, and other tips!
