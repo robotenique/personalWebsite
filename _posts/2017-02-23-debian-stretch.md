@@ -13,7 +13,6 @@ Hello! In this post, I'll show how is the setup that I use, the most common appl
 
 **DISCLAIMER:** You do everything in your >OWN< risk! :D
 
-## Summary
 ---
 
 
