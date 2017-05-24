@@ -4,7 +4,7 @@ title:  "Python map"
 date:   2017-03-12
 desc: "Cool python map"
 keywords: "python,programming,cs"
-categories: [Python, Misc]
+categories: [Python]
 tags: [python,programming]
 icon:  fa-code
 
