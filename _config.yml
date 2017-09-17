@@ -4,7 +4,7 @@
 title: "Robotenique's Home"
 description: "Juliano Garcia's personal website."
 keywords: "Robotenique,Python,programming,development,github,ime-usp,computer,science"
-baseurl: https://linux.ime.usp.br/~robotenique/"
+baseurl: "https://linux.ime.usp.br/~robotenique/"
 url: "-"
 # url: "http://127.0.0.1:4000"
 
