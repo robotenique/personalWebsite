@@ -41,7 +41,8 @@
     toggleSearch(true);
   });
 
-  $.getJSON("/search/cb-search.json")
+// HACK: Here I had to make the baseurl hardcoded!
+  $.getJSON("https://linux.ime.usp.br/~robotenique/search/cb-search.json")
     .done(function (data) {
       if (data.code == 0) {
         $("#search-content").typeahead({

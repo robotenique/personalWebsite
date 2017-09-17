@@ -54,7 +54,7 @@ sections:
 
 # blog img path
 # TODO: Fix the image path in the deploy application
-img_path: '/static/img/blog'
+img_path: 'https://linux.ime.usp.br/~robotenique/static/img/blog'
 
 
 # comment
