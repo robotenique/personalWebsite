@@ -141,12 +141,7 @@ Here's a list of a few links I constantly use and/or I find interesting to read.
                                 <a href="http://www.ccs.neu.edu/home/matthias/HtDP2e/part_preface.html">
                                     How to Design Programs
                                 </a>
-                            </li>
-                            <li class="list-group-item">&#8594;
-                                <a href="https://mega.nz/#F!wVsCjS7A!K7jrAMW6b7RX_AC6TT3msA!IMsBiYLJ">
-                                    CS Mega folder
-                                </a> - 'Megaupload' folder with lots of useful books and articles for IT, the majority of them are in portuguese.
-                            </li>
+                            </li>                            
                             <li class="list-group-item">&#8594;
                                 <a href="http://www.devall.com.br/">
                                     /dev/All
