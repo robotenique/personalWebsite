@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Generating image points in Python"
+title:  "Generating grid/image points in Python"
 date:   2017-09-17
-desc: "How to get the important points of an image, then generate a file with them!"
+desc: "How to get the darker points of an image, then generate a file with them!"
 keywords: "python,programming,cs"
 categories: [Computer Science, Python]
 tags: [python,programming]

@@ -4,17 +4,11 @@
 - name: Java
   percentage: 75
 
-- name: PHP
-  percentage: 65
+- name: Linux
+  percentage: 77
 
 - name: C
-  percentage: 70
-
-- name: Wordpress
-  percentage: 80
-
-- name: MySQL
-  percentage: 45
+  percentage: 75
 
 - name: HTML/CSS
   percentage: 65
@@ -22,8 +16,14 @@
 - name: jQuery/JS
   percentage: 55
 
-- name: Linux
-  percentage: 50
+- name: PHP
+  percentage: 65
+
+- name: MySQL
+  percentage: 55
+
+- name: Ruby/Rails
+  percentage: 45
 
 - name: Flash
   percentage: 40
