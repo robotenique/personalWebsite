@@ -1,8 +1,51 @@
 - name:
-    detail: Computer Science (IME - USP)
+    detail: Data Scientist intern @ Nubank
+    i18n: df7
+  desc:
+    detail: >-
+      Working as a Data Scientist at the leading fintech in Latin America, Nubank!
+    i18n: df7_desc
+  date:
+    detail: Feb. 2019
+    i18n: df7_date
+  job:
+    detail: Data Science
+    i18n: df7_job
+  icon: fa-bar-chart
+- name:
+    detail: International Exchange - University of Toronto
+    i18n: df6
+  desc:
+    detail: >-
+       International student at the #10 Computer Science university in the world, University of Toronto. Courses taken: French, Software Engineering, Database Systems, Computers & Society, Web Programming
+    i18n: df6_desc
+  date:
+    detail: Aug. 2018
+    i18n: df6_date
+  job:
+    detail: Student
+    i18n: df6_job
+  icon: fa-globe
+
+- name:
+    detail: Linux Network admin
+    i18n: df5
+  desc:
+    detail: Administration of the linux network at IME-USP, with more than 1500 users and 70 PC stations, with the development of new functionalities and scripts for automation of system tools
+    i18n: df5_desc
+  date:
+    detail: Feb. 2016
+    i18n: df5_date
+  job:
+    detail: Python / Bash
+    i18n: df5_job
+  icon: fa-sitemap
+
+- name:
+    detail: Computer Science @ IME - USP
     i18n: df1
   desc:
-    detail: In February 2016, I started the Computer Science course at the  Institute of Mathematics ans Statistics, in the University of São Paulo =) .
+    detail: I started the Computer Science course at the  Institute of Mathematics ans Statistics, in the University of São Paulo =)
     i18n: df1_des
   date:
     detail: Feb. 2016
@@ -12,25 +55,25 @@
     i18n: df1_job
   icon: fa-laptop
 
-- name:
-    detail: Graduation
-    i18n: df2
-  desc:
-    detail: At December 2015, I graduated from my College.
-    i18n: df2_des
-  date:
-    detail: Dec. 2015
-    i18n: df2_date
-  job:
-    detail: Student
-    i18n: df2_job
-  icon: fa-book
+#- name:
+#    detail: Graduation
+#    i18n: df2
+#  desc:
+#    detail: Graduated from my College.
+#    i18n: df2_des
+#  date:
+#    detail: Dec. 2015
+#    i18n: df2_date
+#  job:
+#    detail: Student
+#    i18n: df2_job
+#  icon: fa-book
 
 - name:
     detail: Scripttus
     i18n: df3
   desc:
-    detail: Implemented, with a team of 4 more people, a text sharing social network website in Wordpress, using PHP to create plugins.
+    detail: Implemented, with a team of 4 more people, a text sharing social network, using PHP.
     i18n: df3_des
   date:
     detail: Nov. 2015
@@ -40,22 +83,22 @@
     i18n: df3_job
   icon: fa-users
 
-- name:
-    detail: HueApp
-    i18n: df4
-  desc:
-    detail: Finished with my friends an android app that calculates the shortest route in the São Paulo subway and integrates with the Google Maps API.
-    i18n: df4_des
-  date:
-    detail: Nov. 2014
-    i18n: df4_date
-  job:
-    detail: Java / Android
-    i18n: df4_job
-  icon: fa-mobile
+#- name:
+#    detail: HueApp
+#    i18n: df4
+#  desc:
+#    detail: Finished with my friends an android app that calculates the shortest route in the São Paulo subway and integrates with the Google Maps API.
+#    i18n: df4_des
+#  date:
+#    detail: Nov. 2014
+#    i18n: df4_date
+#  job:
+#    detail: Java / Android
+#    i18n: df4_job
+#  icon: fa-mobile
 
 - name:
-    detail: High School
+    detail: Computer Technician + High School
     i18n: highSchool
   desc:
     detail: At January 2012, I started a Computer Technician course with emphasis on Software Development and my high school,  both in IFSP, the Federal Institute of Science and Technology - São Paulo

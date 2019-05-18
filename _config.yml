@@ -2,7 +2,7 @@
 title: "Robotenique's Home"
 description: "Juliano Garcia's personal website."
 keywords: "Robotenique,Python,programming,development,github,ime-usp,computer,science"
-baseurl: "https://linux.ime.usp.br/~robotenique/"
+#baseurl: "https://linux.ime.usp.br/~robotenique/"
 url: "-"
 
 # author
@@ -10,10 +10,12 @@ author:
   name: 'Juliano Garcia'
   first_name: 'Juliano'
   last_name: ''
+  home_display_name: 'Juliano Garcia — {Computer | Data} Scientist'
   email: 'julianogarcia_1997@hotmail.com'
   facebook_username: 'julianoGarciaO'
   github_username: 'robotenique'
-  head_img: 'static/img/landing/robt.png'
+  linkedin_username: 'juliano-garcia-oliveira'
+  head_img: 'static/img/landing/me.jpg'
   desc1: 'Hi, I am Juliano Garcia, a Computer Science student, and this is my personal page. '
   desc2: 'My main areas of interest are AI and machine learning, the Python programming language, functional programming, applications of linear algebra and ∆ ＶＡＰＯＲＷＡＶΞ ∆  :)'
 
