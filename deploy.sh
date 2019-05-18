@@ -17,3 +17,4 @@ else
     echo ""
     echo "Finished deploy"
 fi 2> /dev/null
+rm -f updated_site.zip
